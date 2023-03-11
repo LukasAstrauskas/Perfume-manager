@@ -5,7 +5,7 @@ import java.io.*;
 
 public class ExcelFilePathAccess {
 
-    private final File file = new File("ExcelFilePathT.txt");
+    private final File file = new File("ExcelFilePath.txt");
 
 
     public boolean checkIfFileExists() {
